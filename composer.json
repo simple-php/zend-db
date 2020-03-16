@@ -1,0 +1,20 @@
+{
+    "name": "simple-php/zend-db1",
+    "description": "Simple PHP Zend Db v1 extensions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puchkin Dmitriy",
+            "email": "pdima88@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimplePHP\\Zend_Db1\\": "/src"
+         }
+    }
+}
