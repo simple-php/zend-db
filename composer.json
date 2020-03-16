@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "zf1s/zend-db": "^1.13",
         "php": ">=5.4"
     },
     "autoload": {
